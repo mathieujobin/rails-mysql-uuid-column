@@ -1,5 +1,8 @@
 os: linux
-dist: xenial
+dist:
+  - xenial
+  - bionic
+  - focal
 cache: bundler
 language: ruby
 services:
