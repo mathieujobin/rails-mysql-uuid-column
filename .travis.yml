@@ -13,7 +13,6 @@ rvm:
 
 jobs:
   allow_failures:
-    - rvm: 3.0
     - rvm: ruby-head
     - gemfile: gemfiles/Gemfile.rails-edge  # Unsupported
   exclude:
