@@ -1,5 +1,5 @@
 os: linux
-dist: bionic
+dist: focal
 cache: bundler
 language: ruby
 services:
